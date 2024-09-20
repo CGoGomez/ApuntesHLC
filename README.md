@@ -25,8 +25,8 @@ Ver los repositorios y versión y otras coasas:
 - mount (Discos montados)
 - lsblk
 
-  Comandos de redes:
-  - ip a
-  - ip r (muestra puerta de enlace)
-  - ping (Con -c hace el número de veces pedida)
-  - netstat -plunt (Muestra los puertos en cierto protocolo y en escucha)
+Comandos de redes:
+- ip a
+- ip r (muestra puerta de enlace)
+- ping (Con -c hace el número de veces pedida)
+- netstat -plunt (Muestra los puertos en cierto protocolo y en escucha)
