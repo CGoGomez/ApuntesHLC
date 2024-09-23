@@ -30,3 +30,7 @@ Comandos de redes:
 - ip r (muestra puerta de enlace)
 - ping (Con -c hace el número de veces pedida)
 - netstat -plunt (Muestra los puertos en cierto protocolo y en escucha)
+- sudo nslookup páginaweb.com (muestra si funcionan los DNS)
+- sudo nano /etc/hosts (configuración de DNS)
+- sudo ip a flush "tarjeta de red" (Elimina la IP de la tarjeta de red) / sudo dhclient -v -s "servidor" (te da una IP correspondiente a un servidor cualquiera o a uno en concreto)
+- systemctl status (Checkea el status de un servicio)
