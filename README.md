@@ -34,3 +34,11 @@ Comandos de redes:
 - sudo nano /etc/hosts (configuración de DNS)
 - sudo ip a flush "tarjeta de red" (Elimina la IP de la tarjeta de red) / sudo dhclient -v -s "servidor" (te da una IP correspondiente a un servidor cualquiera o a uno en concreto)
 - systemctl status (Checkea el status de un servicio)
+
+Más Comandos:
+- ps aux (muestra los procesos)
+- ps a (Procesos del terminal)
+- top (Procesos en formato tabla)
+- htop (profcesos formato tabla y con colores)
+- getent passws(Información de los usuarios)/ getent shadow (contraseñas, encriptadas)
+- lsmod (Drivers en memoria)
