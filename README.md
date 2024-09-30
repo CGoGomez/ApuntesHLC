@@ -42,3 +42,6 @@ Más Comandos:
 - htop (profcesos formato tabla y con colores)
 - getent passws(Información de los usuarios)/ getent shadow (contraseñas, encriptadas)
 - lsmod (Drivers en memoria)
+Archivos de configuración:
+- /etc/network/interfaces (configuración de red)
+- /etc/resolve.conf (DNS)
