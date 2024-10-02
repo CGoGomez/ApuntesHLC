@@ -45,3 +45,5 @@ Más Comandos:
 Archivos de configuración:
 - /etc/network/interfaces (configuración de red)
 - /etc/resolve.conf (DNS)
+- ssh-keygen
+- ssh-copy-id -i "Archivo de clave pública .pub" "usuario del servidor"@"ip del servidor"
